@@ -1,6 +1,7 @@
 ![Travis](https://travis-ci.org/VodkaBears/Remodal.svg?branch=master)
 Remodal
 =======
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/TITAN-UZ/Remodal?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Flat, responsive, lightweight, fast, easy customizable modal window plugin with declarative state notation and hash tracking.
 
 Minified version size: ~4kb
